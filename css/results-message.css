@@ -1,0 +1,18 @@
+/* RESULTS MESSAGE */
+.results-message {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.2rem 0;
+}
+
+.results-message .fas {
+  color: var(--main-color);
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--gray);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
